@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx @marp-team/marp-cli --version)",
+      "Bash(npx @marp-team/marp-cli slides.md -o slides.html --html)"
+    ]
+  }
+}
